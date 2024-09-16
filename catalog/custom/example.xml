@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <Products>
   <Product>
     <id>RDSTATION-TSHIRT1</id>
@@ -6,7 +5,6 @@
     <description>Essa camiseta tem uma logo da RD Station na frente.</description>
     <link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
     <image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg</image_link>
-    <tags>camiseta,classica</tags>
     <price>10.99</price>
     <sku>SKU-TSHIRT1</sku>
     <categories>aparencia,t-shirt,novo,logomarca</categories>
@@ -19,7 +17,6 @@
         <description>Camiseta vermelha com uma logo da RD Station na frente.</description>
         <link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
         <image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg</image_link>
-        <tags>camiseta,vermelha</tags>
         <price>10.99</price>
         <sku>SKU-TSHIRT1-RED</sku>
         <inventory_quantity>15</inventory_quantity>
@@ -30,7 +27,6 @@
         <description>Camiseta azul com uma logo da RD Station na frente.</description>
         <link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
         <image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg</image_link>
-        <tags>camiseta,azul</tags>
         <price>10.99</price>
         <sku>SKU-TSHIRT1-BLUE</sku>
         <inventory_quantity>10</inventory_quantity>
@@ -56,7 +52,6 @@
         <description>Camiseta vermelha com uma logo da RD Station na frente.</description>
         <link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
         <image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png</image_link>
-        <tags>camiseta,vermelha</tags>
         <price>12.59</price>
         <compare_at_price>15.59</compare_at_price>
         <sku>SKU-TSHIRT2</sku>
