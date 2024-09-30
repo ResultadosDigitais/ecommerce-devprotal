@@ -6,7 +6,10 @@
     <description>Essa camiseta tem uma logo da RD Station na frente.</description>
     <link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
     <image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg</image_link>
+    <price>10.99</price>
+    <sku>SKU-TSHIRT1</sku>
     <categories>aparencia,t-shirt,novo,logomarca</categories>
+    <inventory_quantity>25</inventory_quantity>
     <status>published</status>
     <Variants>
       <Variant>
@@ -37,7 +40,11 @@
     <description>Essa camiseta tem uma logo da RD Station na frente.</description>
     <link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
     <image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png</image_link>
+    <price>12.59</price>
+    <compare_at_price>15.59</compare_at_price>
+    <sku>SKU-TSHIRT2</sku>
     <categories>aparencia,t-shirt,novo,logomarca</categories>
+    <inventory_quantity>30</inventory_quantity>
     <status>published</status>
     <Variants>
       <Variant>
@@ -62,22 +69,8 @@
     <price>15.59</price>
     <sku>SKU-TSHIRT3</sku>
     <categories>aparencia,t-shirt,novo,logomarca</categories>
-    <inventory_quantity>5</inventory_quantity>
+    <inventory_quantity>0</inventory_quantity>
     <status>unpublished</status>
-    <Variants/>
-  </Product>
-  <Product>
-    <id>RDSTATION-TSHIRT4</id>
-    <title>RD Station T-Shirt 4 Clássica</title>
-    <description>Essa camiseta tem uma logo da RD Station na frente.</description>
-    <link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
-    <image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg</image_link>
-    <price>15.59</price>
-    <compare_at_price>18.59</compare_at_price>
-    <sku>SKU-TSHIRT4</sku>
-    <categories>aparencia,t-shirt,logomarca</categories>
-    <inventory_quantity>1</inventory_quantity>
-    <status>published</status>
     <Variants/>
   </Product>
 </Products>
